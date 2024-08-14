@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartServe", "SmartServe\SmartServe.csproj", "{657681E9-F097-4B3B-B56E-13B2F69E7145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657681E9-F097-4B3B-B56E-13B2F69E7145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657681E9-F097-4B3B-B56E-13B2F69E7145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657681E9-F097-4B3B-B56E-13B2F69E7145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657681E9-F097-4B3B-B56E-13B2F69E7145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211F8CB3-5927-4185-A8D3-9E5296F11FF6}
+	EndGlobalSection
+EndGlobal
